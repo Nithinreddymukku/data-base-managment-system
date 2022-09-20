@@ -1,11 +1,11 @@
 # data-base-managment-
 ## Experiment 1
 [Expr1 Queries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%201)
-![image](https://user-images.githubusercontent.com/113226389/191220533-b6aece25-ceb2-4146-bde7-44bbce33bc62.png)
+![image](https://user-images.githubusercontent.com/113226389/191299977-f1715cd6-22d4-427f-b9a0-92858148be5d.png)
+![image](https://user-images.githubusercontent.com/113226389/191300123-5ecd3710-1773-4699-bbd5-e1f7a4ac6214.png)
 ## Experiment 2
 [Experiment 2 Quieries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%202)
-![image](https://user-images.githubusercontent.com/113226389/191298802-20ea1de2-44c0-4c56-a659-0901ec1e99d3.png)
-![image](https://user-images.githubusercontent.com/113226389/191299328-6a812ef5-90d0-47dc-a0f0-94db9143a307.png)
+
 
 
 
