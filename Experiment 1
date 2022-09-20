@@ -1,1 +1,28 @@
-
+mysql> describe w.student' at line 1
+mysql> +-----------+-------------+------+-----+---------+-------+
+    -> | Field     | Type        | Null | Key | Default | Extra |
+    -> +-----------+-------------+------+-----+---------+-------+
+    -> | reg_no    | int         | YES  |     | NULL    |       |
+    -> | name      | varchar(15) | YES  |     | NULL    |       |
+    -> | gender    | varchar(1)  | YES  |     | NULL    |       |
+    -> | dob       | date        | YES  |     | NULL    |       |
+    -> | mobile_no | int         | YES  |     | NULL    |       |
+    -> | city      | varchar(15) | YES  |     | NULL    |       |
+    -> +-----------+-------------+------+-----+---------+-------+
+    -> 6 rows in set (0.00 sec)
+    ->
+    -> mysql> describe w.faculty;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '+-----------+-------------+------+-----+---------+-------+
+| Field     | Type   ' at line 1
+mysql> +--------------+-------------+------+-----+---------+-------+
+    -> | Field        | Type        | Null | Key | Default | Extra |
+    -> +--------------+-------------+------+-----+---------+-------+
+    -> | fac_no       | int         | YES  |     | NULL    |       |
+    -> | fac_name     | varchar(15) | YES  |     | NULL    |       |
+    -> | gender       | varchar(1)  | YES  |     | NULL    |       |
+    -> | dob          | date        | YES  |     | NULL    |       |
+    -> | date_of_join | date        | YES  |     | NULL    |       |
+    -> | mobile_no    | int         | YES  |     | NULL    |       |
+    -> +--------------+-------------+------+-----+---------+-------+
+    -> 6 rows in set (0.00 sec)
+    ->
