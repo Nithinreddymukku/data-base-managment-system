@@ -8,5 +8,5 @@
 ![image](https://user-images.githubusercontent.com/113226389/191300614-0c8c66a2-fc65-4039-b38c-3e2bc9ee8082.png)
 ![image](https://user-images.githubusercontent.com/113226389/191300751-a0d50cbe-4c09-443a-b02d-8b35c17528b1.png)
 ## Experiment 3
-[Experiment 3 Quieries]()
+[Experiment 3 Quieries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%203)
 ![image](https://user-images.githubusercontent.com/113226389/191302018-1464930d-d166-4850-abda-f15c4fb9b0fd.png)
