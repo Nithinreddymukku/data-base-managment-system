@@ -9,4 +9,11 @@
 ![image](https://user-images.githubusercontent.com/113226389/191300751-a0d50cbe-4c09-443a-b02d-8b35c17528b1.png)
 ## Experiment 3
 [Experiment 3 Quieries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%203)
-![image](https://user-images.githubusercontent.com/113226389/191302018-1464930d-d166-4850-abda-f15c4fb9b0fd.png)
+![image](https://user-images.githubusercontent.com/113226389/191302018-1464930d-d166-4850-abda-f15c4fb9b0fd.png) 
+## Experiment 4
+[Experiment 4 Quieries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%204)
+![image](https://user-images.githubusercontent.com/113226389/191304211-b66bcd3a-a5e9-4e6a-b959-18095d8ff047.png)
+![image](https://user-images.githubusercontent.com/113226389/191304470-3552862c-d3af-4133-a066-af70808591bc.png)
+![image](https://user-images.githubusercontent.com/113226389/191304633-5a00090b-04d1-4faf-ade0-6adaeb802c4c.png)
+![image](https://user-images.githubusercontent.com/113226389/191304766-3bd7958f-d128-4809-a6ce-656debc068ab.png)
+
