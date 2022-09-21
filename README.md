@@ -33,6 +33,8 @@
 ![image](https://user-images.githubusercontent.com/113226389/191317265-ef314b6f-6168-4aed-bec4-5ffd8fd08966.png)
 ## Experiment 8
 [Experiment 8 Quiries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%208)
+![image](https://user-images.githubusercontent.com/113226389/191554833-b5832c76-181f-4c1e-9fe1-4348f24a971b.png)
+
 
 
 
