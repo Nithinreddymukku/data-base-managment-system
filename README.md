@@ -46,6 +46,11 @@
 [Experiment 11 Quiries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%2011)
 ![image](https://user-images.githubusercontent.com/113226389/191559692-8474c690-f2b6-4007-84f6-d37997c51dee.png)
 ![image](https://user-images.githubusercontent.com/113226389/191559893-3b5d3bb4-f0e3-4d8b-bb50-1b2c8e387645.png)
+## Experiment 12
+[Experiment 12 Quiries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%2012)
+![image](https://user-images.githubusercontent.com/113226389/191561207-90c7aaf1-6e01-41cc-9099-94ee76ccec3f.png)
+![image](https://user-images.githubusercontent.com/113226389/191561338-2392379a-32ec-46ec-9176-79cb8342aecd.png)
+
 
 
 
