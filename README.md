@@ -31,5 +31,8 @@
 ## Experiment 7
 [Experiment 7 Quiries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%207)
 ![image](https://user-images.githubusercontent.com/113226389/191317265-ef314b6f-6168-4aed-bec4-5ffd8fd08966.png)
+## Experiment 8
+[Experiment 8 Quiries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%208)
+
 
 
