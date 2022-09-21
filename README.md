@@ -50,6 +50,10 @@
 [Experiment 12 Quiries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%2012)
 ![image](https://user-images.githubusercontent.com/113226389/191561207-90c7aaf1-6e01-41cc-9099-94ee76ccec3f.png)
 ![image](https://user-images.githubusercontent.com/113226389/191561338-2392379a-32ec-46ec-9176-79cb8342aecd.png)
+## Experiment 13
+[Experiment 13 Quiries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%2013)
+![image](https://user-images.githubusercontent.com/113226389/191562034-c4bd924c-1a9e-43b1-aa3f-a3f7203e245d.png)
+
 
 
 
