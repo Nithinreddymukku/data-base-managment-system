@@ -63,6 +63,10 @@
 ## Experiment 17
 [Experiment 17 Quiries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%2017)
 ![image](https://user-images.githubusercontent.com/113226389/191705366-3f41b8d6-b20b-43fe-be60-a6414451e4a1.png)
+## Experiment 18
+[Experiment 18 Quiries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%2018)
+![image](https://user-images.githubusercontent.com/113226389/191706341-1470d638-4d1e-42be-b75a-6c0fd3480c62.png)
+
 
 
 
