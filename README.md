@@ -69,7 +69,7 @@
 ![image](https://user-images.githubusercontent.com/113226389/191705366-3f41b8d6-b20b-43fe-be60-a6414451e4a1.png)
 ## Experiment 18
 [Experiment 18 Quiries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%2018)
-![image](https://user-images.githubusercontent.com/113226389/191886645-d9b7f099-4319-4283-8f5a-076a0e55324b.png)
+![image](https://user-images.githubusercontent.com/113226389/192026655-75cb5a54-2173-4c20-a3c4-e2b0ff01001b.png)
 ## Experiment 21
 [Experiment 21 Quiries](https://github.com/Nithinreddymukku/data-base-managment-system/blob/main/Experiment%2021)
 ![image](https://user-images.githubusercontent.com/113226389/191824746-0fb78fa1-ae85-4c71-bd49-a9000b94bf20.png)
